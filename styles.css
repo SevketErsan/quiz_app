@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+.apptitle {
+  display: flex;
+  justify-content: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: darkgrey;
+  position: sticky;
+  z-index: 1;
+  flex-wrap: wrap;
+}
